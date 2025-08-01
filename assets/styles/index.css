@@ -7,12 +7,18 @@
 h1, 
 p {
     text-align: center;
+    margin: 10px;
 }
 
 header{
     background-color: rgb(247, 162, 197);
     color: rgb(228, 14, 139);
     padding: 74px;
+}
+
+main {
+    height: 600px;
+    background-color: rgb(252, 229, 242);
 }
 
 
