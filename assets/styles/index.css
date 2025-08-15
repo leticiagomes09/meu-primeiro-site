@@ -124,3 +124,14 @@ margin-bottom: 40px;
         color:  rgb(255, 240, 246);
         transform: translateY(-2px);
     }
+
+     footer {
+        background-color: rgb(247, 162, 197);
+        text-align: center;
+        padding: 2rem;
+        width: 100%;
+    }
+
+    footer p {
+        font-size: 14px;
+    }
